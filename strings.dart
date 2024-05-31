@@ -1,0 +1,45 @@
+class Strings {
+  static const String name = "PCB";
+  static const String fullName = "Kerala State Pollution Control Board";
+  static const String welcome = "WELCOME";
+  static const String exitAlertMsg = "Do you really want to exit?";
+  static const String areYouSure = "Are you sure?";
+  static const String forgotPassword = "Forgot Password?";
+  static const String signIn = "Sign In";
+  static const String login = "Login";
+  static const String fieldsNotEmpty = "Fields can\'t be empty";
+  static const String trackComplaint = "Track Complaint";
+  static const String fileComplaint = "File Complaint";
+  static const String emailId = "Email Id";
+  static const String password = "Password";
+  static const String cancel = "CANCEL";
+  static const String yes = "YES";
+  static const String fileAComplaint = "File a Complaint";
+  static const String fileComplaintAgainst = "File Complaint Against:";
+  static const String industry = "Industry";
+  static const String invalidName = "Invalid name";
+  static const String petitionersName = "Petitioner\'s Name";
+  static const String invalidEmailAddress = "Invalid Email Address";
+  static const String emailAddress = "Email Address";
+  static const String addressCantBeEmpty = "Address can\'t be empty";
+  static const String address = "Address";
+  static const String mobileNumberCantBeEmpty = "Mobile number can\'t be empty";
+  static const String mobileNo = "Mobile No.";
+  static const String descriptionCantBeEmpty = "Description can\'t be empty";
+  static const String issueDescription = "Issue Description";
+  static const String issueDescriptionCantBeEmpty = "Issue description can\'t be empty";
+  static const String submit = "Submit";
+  static const String somethingWentWrong = "Something went wrong";
+  static const String pleaseEnterPetitionersName = "Please enter Petitioner\'s Name";
+  static const String pleaseEnterEmailAddress = "Please enter Email Address";
+  static const String pleaseEnterAddress = "Please enter Address";
+  static const String pleaseEnterMobileNumber = "Please enter mobile number";
+  static const String pleaseEnterValidMobileNumber = "Please enter valid mobile number";
+  static const String selectDistrict = "Select District:";
+  static const String completeTheForm = "Complete all fields properly...";
+  static const String industryName = "Industry Name";
+  static const String industryNameCantBeEmpty = "Industry name can\'t be empty";
+  static const String confirm = "Confirm";
+  static const String listOfComplaints = "List of complaints";
+
+}
